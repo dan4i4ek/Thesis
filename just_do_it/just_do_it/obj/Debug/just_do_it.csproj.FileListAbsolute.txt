@@ -1,0 +1,9 @@
+E:\Studing\Thesis\Thesis\just_do_it\just_do_it\bin\Debug\just_do_it.exe.config
+E:\Studing\Thesis\Thesis\just_do_it\just_do_it\bin\Debug\just_do_it.exe
+E:\Studing\Thesis\Thesis\just_do_it\just_do_it\bin\Debug\just_do_it.pdb
+E:\Studing\Thesis\Thesis\just_do_it\just_do_it\obj\Debug\just_do_it.Form1.resources
+E:\Studing\Thesis\Thesis\just_do_it\just_do_it\obj\Debug\just_do_it.Properties.Resources.resources
+E:\Studing\Thesis\Thesis\just_do_it\just_do_it\obj\Debug\just_do_it.csproj.GenerateResource.Cache
+E:\Studing\Thesis\Thesis\just_do_it\just_do_it\obj\Debug\just_do_it.csproj.CoreCompileInputs.cache
+E:\Studing\Thesis\Thesis\just_do_it\just_do_it\obj\Debug\just_do_it.exe
+E:\Studing\Thesis\Thesis\just_do_it\just_do_it\obj\Debug\just_do_it.pdb
