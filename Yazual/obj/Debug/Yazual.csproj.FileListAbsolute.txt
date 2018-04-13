@@ -1,0 +1,10 @@
+E:\Development folder\Yazual\Yazual\bin\Debug\Yazual.exe.config
+E:\Development folder\Yazual\Yazual\bin\Debug\Yazual.exe
+E:\Development folder\Yazual\Yazual\bin\Debug\Yazual.pdb
+E:\Development folder\Yazual\Yazual\obj\Debug\Yazual.csprojResolveAssemblyReference.cache
+E:\Development folder\Yazual\Yazual\obj\Debug\Yazual.Form1.resources
+E:\Development folder\Yazual\Yazual\obj\Debug\Yazual.Properties.Resources.resources
+E:\Development folder\Yazual\Yazual\obj\Debug\Yazual.csproj.GenerateResource.Cache
+E:\Development folder\Yazual\Yazual\obj\Debug\Yazual.exe
+E:\Development folder\Yazual\Yazual\obj\Debug\Yazual.pdb
+E:\Development folder\Yazual\Yazual\obj\Debug\Yazual.Form2.resources
